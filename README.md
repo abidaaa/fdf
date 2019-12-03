@@ -37,16 +37,16 @@ Each number corresponds to a point in space:
 
 ### How do I use it?
 
-### Installation
+### *Installation*
 
 To generate an executable for this project run make in the root of the project directory. 
 This project will only work on MacOS El Capitan/Sierra/HighSierra(maybe) and even then, no promises!
 
-### Usage
+### *Usage*
 
 After running make to generate the fdf executable you can run the program with ./fdf [<filename>].
 
-### Output
+### *Output*
 The program will attempt to render the model described by the fdf file in a graphical window.
 
 ![Example:](https://github.com/abidaaa/fdf/blob/master/1337.png)
