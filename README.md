@@ -49,7 +49,7 @@ This project will only work on MacOS El Capitan/Sierra/HighSierra(maybe) and eve
 
 ### *Usage*
 
-After running make to generate the fdf executable you can run the program with ./fdf [<filename>].
+After running make to generate the fdf executable you can run the program with ./fdf [filename].
 
 ### *Output*
 The program will attempt to render the model described by the fdf file in a graphical window.
