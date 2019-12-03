@@ -39,8 +39,7 @@ Each number corresponds to a point in space:
 
 ### Installation
 
-To generate an executable for this project run make in the root of the project directory. If the make command fails, check if the minilibx folder is empty. If so, you may have to run git submodule update --init --recursive to initialize and get the files for the minilibx submodule.
-
+To generate an executable for this project run make in the root of the project directory. 
 This project will only work on MacOS El Capitan/Sierra/HighSierra(maybe) and even then, no promises!
 
 ### Usage
